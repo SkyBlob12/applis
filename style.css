@@ -1,0 +1,116 @@
+.menu-client {
+    height: 138px;
+    width: 430px;
+}
+
+.menu-client .overlap {
+    height: 138px;
+    position: relative;
+}
+
+.menu-client .frame {
+    height: 99px;
+    left: 0;
+    position: absolute;
+    top: 39px;
+    width: 430px;
+}
+
+.menu-client .overlap-group {
+    height: 107px;
+    position: relative;
+    top: -8px;
+}
+
+.menu-client .buttons {
+    height: 104px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 430px;
+}
+
+.menu-client .div {
+    align-items: center;
+    display: flex;
+    height: 99px;
+    justify-content: space-between;
+    left: 15px;
+    position: absolute;
+    top: 8px;
+    width: 399px;
+}
+
+.menu-client .frame-2 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4.59px;
+    height: 98.61px;
+    justify-content: center;
+    position: relative;
+    width: 68.8px;
+}
+
+.menu-client .icon-instance-node {
+    height: 24px !important;
+    position: relative !important;
+    width: 24px !important;
+}
+
+.menu-client .text-wrapper {
+    color: #de6262;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 13.8px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.menu-client .text-wrapper-2 {
+    color: #2828288c;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 13.8px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.menu-client .frame-3 {
+    height: 96.32px;
+    position: relative;
+    width: 1px;
+}
+
+.menu-client .iconly-light-profile {
+    height: 27.52px !important;
+    position: relative !important;
+    width: 27.52px !important;
+}
+
+.menu-client .qr-code-wrapper {
+    align-items: center;
+    background: linear-gradient(180deg, rgb(222, 98, 98) 0%, rgb(255, 184, 140) 100%);
+    border-radius: 32.11px;
+    display: flex;
+    gap: 11.47px;
+    height: 66px;
+    justify-content: center;
+    left: 182px;
+    padding: 13.76px;
+    position: absolute;
+    top: 0;
+    width: 64px;
+}
+
+.menu-client .qr-code {
+    height: 35px;
+    position: relative;
+    width: 35px;
+}
